@@ -1,2 +1,3 @@
-# core-analytics-dashboard-zhyi
-A analytics dashboard for modern development workflows
+# Core Analytics Dashboard Zhyi
+
+A analytics dashboard for modern development workflows.
